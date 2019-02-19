@@ -16,6 +16,13 @@ This tutorial accompanies the [lecture on Deep Learning Basics](https://www.yout
 
 This tutorial demostrates semantic segmentation with a state-of-the-art model (DeepLab) on a sample video from the MIT Driving Scene Segmentation Dataset.
 
+## Tutorial: Generative Adversarial Networks (GANs)
+
+<a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb"><img src="images/thumb_mushroom_biggan.gif"></a>
+
+This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
+
+Links: \[ [Jupyter Notebook](https://github.com/truongkhanhduy95/MIT-Deep-Learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
