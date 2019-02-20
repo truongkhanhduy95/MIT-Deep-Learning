@@ -10,6 +10,8 @@ This repository is a collection of tutorials for [MIT Deep Learning](https://dee
 
 This tutorial accompanies the [lecture on Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U). It presents several concepts in deep learning, demonstrating the first two (feed forward and convolutional neural networks) and providing pointers to tutorials on the others. This is a good place to start.
 
+Links: \[ [Source code](https://github.com/truongkhanhduy95/MIT-Deep-Learning/blob/master/deep_learning_basics/deep_learning_basics.ipynb \]
+
 ## Tutorial: Driving Scene Segmentation
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb"><img src="images/thumb_driving_scene_segmentation.gif"></a>
@@ -22,7 +24,6 @@ This tutorial demostrates semantic segmentation with a state-of-the-art model (D
 
 This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
 
-Links: \[ [Source code](https://github.com/truongkhanhduy95/MIT-Deep-Learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
