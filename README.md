@@ -22,7 +22,7 @@ This tutorial demostrates semantic segmentation with a state-of-the-art model (D
 
 This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
 
-Links: \[ [Jupyter Notebook](https://github.com/truongkhanhduy95/MIT-Deep-Learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
+Links: \[ [Source code](https://github.com/truongkhanhduy95/MIT-Deep-Learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
