@@ -24,7 +24,6 @@ This tutorial demostrates semantic segmentation with a state-of-the-art model (D
 
 This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
 
-
 ## DeepTraffic Deep Reinforcement Learning Competition
 
 <a href="https://selfdrivingcars.mit.edu/deeptraffic"><img src="images/thumb_deeptraffic.gif"></a>
